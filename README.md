@@ -2,6 +2,7 @@
 **Análise de dados com Python, usando a biblioteca Pandas e Matplotlib**
 
 Ferramenta utilizada: VS Code
+
 Site utilizado para baixar a planilha: https://www.kaggle.com/
 
 
